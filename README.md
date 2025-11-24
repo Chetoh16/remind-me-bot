@@ -2,7 +2,7 @@
 Discord Bot for keeping track of various things such as shows to watch and books to read. It also sends an egg emoji (🥚) when someone says egg.
 
 ## How It's Made
-- Technologies used: `Python, JSON`
+- Technologies Used: `Python, JSON`
 
 - Uses discord.ext.commands to define commands such as /watchlist, /watchlistshow, and /watchlistremove.
 - Watchlist system writes entries to the json file. From that file, it reads and displays them with timestamps and authors.
